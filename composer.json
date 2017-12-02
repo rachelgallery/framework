@@ -1,6 +1,6 @@
 {
     "name": "rachelgallery/framework",
-    "description": "The Laravel Framework.",
+    "description": "The  Laravel Framework.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "homepage": "https://laravel.com",
@@ -16,7 +16,8 @@
     ],
     "require": {
         "php": ">=7.0",
-        "swiftmailer/swiftmailer": "~6.0"
+        "swiftmailer/swiftmailer": "~6.0",
+        "psr/container": "~1.0"
     },
     "replace": {
         "illuminate/auth": "self.version",
