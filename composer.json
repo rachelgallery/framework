@@ -91,14 +91,6 @@
             "Illuminate\\": "src/Illuminate/"
         }
     },
-    "autoload-dev": {
-        "files": [
-            "tests/Database/stubs/MigrationCreatorFakeMigration.php"
-        ],
-        "psr-4": {
-            "Illuminate\\Tests\\": "tests/"
-        }
-    },
     "extra": {
         "branch-alias": {
             "dev-master": "5.5-dev"
